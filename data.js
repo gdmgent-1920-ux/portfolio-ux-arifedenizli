@@ -25,18 +25,18 @@ const data = {
             {
                 "text": "Inspiratieboek",
                 "title": "Mijn PDF met inspiratie (login, functions, result)",
-                "href": "./assignments/assignment1/documents/a1-inspiration.pdf",
+                "href": "./assignments/assignment1/documents/1AVDb_ArifeDenizli_Inspiratieboek_SmallApplication.pdf",
                 "target": "_blank"
             },
             {
                 "text": "Adobe XD",
                 "title": "Mijn Adobe XD document",
-                "href": "./assignments/assignment1/documents/a1-visual-designs.xd",
+                "href": "./assignments/assignment1/documents/Small Application - Arife Denizli.xd",
             },
             {
                 "text": "Adobe XD Prototype",
                 "title": "Mijn Adobe XD prototype (share link)",
-                "href": "https://xd.adobe.com/view/c0776d16-6873-4c32-7fb7-f869a5f72b0d-b646/",
+                "href": "https://xd.adobe.com/view/681cf88a-ff4a-4df0-698b-e1ddb825741d-1e2d/",
                 "target": "_blank"
             }
         ]
@@ -51,18 +51,18 @@ const data = {
             {
                 "text": "Inspiratieboek",
                 "title": "Mijn PDF met inspiratie",
-                "href": "./assignments/assignment2/documents/a2-inspiration.pdf",
+                "href": "./assignments/assignment2/documents/1AVDb_ArifeDenizli_Inspiratieboek_Wireframenaardesign.pdf",
                 "target": "_blank"
             },
             {
                 "text": "Adobe XD",
                 "title": "Mijn Adobe XD document",
-                "href": "./assignments/assignment2/documents/a2-visual-designs.xd",
+                "href": "./assignments/assignment2/documents/Wireframes naar webdesign - Arife Denizli.xd",
             },
             {
                 "text": "Adobe XD Prototype",
                 "title": "Mijn Adobe XD prototype (share link)",
-                "href": "https://xd.adobe.com/view/e4c35170-a2f7-4c10-753b-ba7c449703ec-92f2/grid",
+                "href": "https://xd.adobe.com/view/c423e89f-9405-411f-7980-2afe74fb90f5-b212/",
                 "target": "_blank"
             }
         ]
