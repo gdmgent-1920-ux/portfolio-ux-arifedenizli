@@ -36,7 +36,7 @@ const data = {
             {
                 "text": "Adobe XD Prototype",
                 "title": "Mijn Adobe XD prototype (share link)",
-                "href": "https://xd.adobe.com/view/681cf88a-ff4a-4df0-698b-e1ddb825741d-1e2d/",
+                "href": "https://xd.adobe.com/view/864d2791-729b-40a1-48de-a8ff6f7244ee-f07c/",
                 "target": "_blank"
             }
         ]
@@ -57,12 +57,12 @@ const data = {
             {
                 "text": "Adobe XD",
                 "title": "Mijn Adobe XD document",
-                "href": "./assignments/assignment2/documents/Wireframes naar webdesign - Arife Denizli.xd",
+                "href": "./assignments/assignment2/documents/Wireframes naar webdesign - Arife Denizli 2.xd",
             },
             {
                 "text": "Adobe XD Prototype",
                 "title": "Mijn Adobe XD prototype (share link)",
-                "href": "https://xd.adobe.com/view/c423e89f-9405-411f-7980-2afe74fb90f5-b212/",
+                "href": "https://xd.adobe.com/view/b75b7f9a-b230-4585-5c8b-77afd8d526c9-c16a/",
                 "target": "_blank"
             }
         ]
@@ -75,66 +75,25 @@ const data = {
     "assignment3": {
         "buttons": [
             {
-                "text": "Adobe XD",
-                "title": "Mijn Adobe XD document met Wireframes & Visual Design",
-                "href": "./assignments/assignment3/documents/a3-wireframes-visual-designs.xd",
+                "text": "Researchdocument",
+                "title": "Mijn PDF met research",
+                "href": "./assignments/assignment3/documents/a3-research_Arife Denizli.pdf",
+                "target": "_blank"
             },
             {
-                "text": "Adobe XD Prototype",
-                "title": "Mijn Adobe XD prototype (share link)",
-                "href": "https://xd.adobe.com/view/e4c35170-a2f7-4c10-753b-ba7c449703ec-92f2/grid",
-                "target": "_blank"
+                "text": "Adobe XD (met Wireframes)",
+                "title": "Mijn Adobe XD document met de wireframes van mijn applicatie",
+                "href": "./assignments/assignment3/documents/a3-wireframes_Arife Denizli.xd",
+            },
+            {
+                "text": "Adobe XD (met Visual Designs)",
+                "title": "Mijn Adobe XD document voor de visual designs van mijn applicatie",
+                "href": "./assignments/assignment3/documents/a3-visual-designs_Arife Denizli.xd",
             },
             {
                 "text": "Website",
                 "title": "Mijn website voor opdracht 3",
                 "href": "./assignments/assignment3/website/index.html",
-                "target": "_blank"
-            }
-        ]
-    },
-
-    /**
-     * Assignment 4
-     */
-
-    "assignment4": {
-        "buttons": [
-            {
-                "text": "Analyse",
-                "title": "Mijn PDF met een analyse van de gemaakte fouten",
-                "href": "./assignments/assignment4/documents/a4-analysis.pdf",
-                "target": "_blank"
-            },
-            {
-                "text": "Adobe XD (Desktop)",
-                "title": "Mijn Adobe XD document voor de Desktop versie van de applicatie",
-                "href": "./assignments/assignment4/documents/a4-visual-designs-desktop.xd",
-            },
-            {
-                "text": "Adobe XD (Mobile)",
-                "title": "Mijn Adobe XD document voor de Mobile versie van de applicatie",
-                "href": "./assignments/assignment4/documents/a4-visual-designs-mobile.xd",
-            },
-            {
-                "text": "Website",
-                "title": "Mijn website voor opdracht 4",
-                "href": "./assignments/assignment4/website/index.html",
-                "target": "_blank"
-            }
-        ]
-    },
-
-    /**
-     * Assignment 5
-     */
-
-    "assignment5": {
-        "buttons": [
-            {
-                "text": "Website",
-                "title": "Mijn website voor opdracht 5",
-                "href": "./assignments/assignment5/website/index.html",
                 "target": "_blank"
             }
         ]
